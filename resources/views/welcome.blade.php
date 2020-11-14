@@ -14,5 +14,9 @@
     </head>
     <body class="antialiased">
        <h1>yogabananamargoyeahyeah</h1>
+       <p>mais</p>
+       <div class="rotating">
+       <img src="{{asset('images/bah.jpg')}}" alt="">
+       </div>
     </body>
 </html>
