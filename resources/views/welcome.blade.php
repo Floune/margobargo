@@ -21,17 +21,15 @@
             @include("partials.content")
 
             <div class="footer">
-
+                <ul>
+                    <li>insta</li>
+                    <li>fb</li>
+                    <li>twitter</li>
+                </ul>
             </div>
 
         </div>
 
-    <div class="footer">
-        <ul>
-            <li>insta</li>
-            <li>fb</li>
-            <li>twitter</li>
-        </ul>
-    </div>
+
     </body>
 </html>
